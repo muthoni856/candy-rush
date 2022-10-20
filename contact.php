@@ -83,7 +83,7 @@
                         <a href="product.php" class="nav-item nav-link">Cart</a>
                     </div>
                     <a href="index.php" class="navbar-brand mx-5 d-none d-lg-block">
-                        <h1 class="m-0 display-4 text-primary"><span class="text-secondary">i</span>CREAM</h1>
+                        <h1 class="m-0 display-4 text-primary"><span class="text-secondary">cANDY</span>rUSH</h1>
                     </a>
                     <div class="navbar-nav mr-auto py-0">
                         <a href="registration.php" class="nav-item nav-link">Signup</a>
